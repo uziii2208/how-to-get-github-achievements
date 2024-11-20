@@ -9,6 +9,8 @@
   <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" alt="Starstruck" />
 </div>
 
+### Credit : dimmasyusuf
+
 ## 👏 Introduction
 
 This tutorial will show you how to get GitHub Achievements.
