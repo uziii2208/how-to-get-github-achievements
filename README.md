@@ -39,32 +39,32 @@ By following this tutorial, you can earn GitHub achievements according to your s
 ```bash
 2. Click Add File & Choose Create New File
 ```
-![quickdraw1](https://github.com/uziii2208/how-to-get-github-achievements/tree/main/images/quickdraw1.png)
+![quickdraw1](https://github.com/dimmasyusuf/github-achievements/blob/main/images/quickdraw1.png)
 ```bash
 3. Name Your File & Type Text
 ```
 ```bash
 4. Click Propose New File
 ```
-![quickdraw2](https://github.com/uziii2208/how-to-get-github-achievements/tree/main/images/quickdraw2.png)
+![quickdraw2](https://github.com/dimmasyusuf/github-achievements/blob/main/images/quickdraw2.png)
 ```bash
 5. Click Create Pull Request
 ```
-![quickdraw3](https://github.com/uziii2208/how-to-get-github-achievements/tree/main/images/quickdraw3.png)
+![quickdraw3](https://github.com/dimmasyusuf/github-achievements/blob/main/images/quickdraw3.png)
 ```bash
 6. Leave A Title & Comment
 ```
 ```bash
 7. Click Create Pull Request
 ```
-![quickdraw4](https://github.com/uziii2208/how-to-get-github-achievements/tree/main/images/quickdraw4.png)
+![quickdraw4](https://github.com/dimmasyusuf/github-achievements/blob/main/images/quickdraw4.png)
 ```bash
 8. Close Pull Request
 ```
 ```bash
 9. Check Your Profile
 ```
-![quickdraw5](https://github.com/uziii2208/how-to-get-github-achievements/tree/main/images/quickdraw5.png)
+![quickdraw5](https://github.com/dimmasyusuf/github-achievements/blob/main/images/quickdraw5.png)
 
 <h2 id="yolo">😎 YOLO</h2>
 
@@ -78,18 +78,18 @@ By following this tutorial, you can earn GitHub achievements according to your s
 ```bash
 2. Go To Settings & Add Collaborator (Your Second Account)
 ```
-![yolo1](https://github.com/uziii2208/how-to-get-github-achievements/tree/main/images/yolo1.png)
+![yolo1](https://github.com/dimmasyusuf/github-achievements/blob/main/images/yolo1.png)
 
 ```bash
 3. Make Sure Your Second Account Accept The Invitation
 ```
-![yolo2](https://github.com/uziii2208/how-to-get-github-achievements/tree/main/images/yolo2.png)
+![yolo2](https://github.com/dimmasyusuf/github-achievements/blob/main/images/yolo2.png)
 
 ```bash
 4. Add New Branch
 ```
-![yolo3](https://github.com/uziii2208/how-to-get-github-achievements/tree/main/images/yolo3.png)
-![yolo4](https://github.com/uziii2208/how-to-get-github-achievements/tree/main/images/yolo4.png)
+![yolo3](https://github.com/dimmasyusuf/github-achievements/blob/main/images/yolo3.png)
+![yolo4](https://github.com/dimmasyusuf/github-achievements/blob/main/images/yolo4.png)
 
 ```bash
 5. Move to Second Branch
@@ -97,7 +97,7 @@ By following this tutorial, you can earn GitHub achievements according to your s
 ```bash
 6. Click Add File & Choose Create New File
 ```
-![yolo5](https://github.com/uziii2208/how-to-get-github-achievements/tree/main/images/yolo5.png)
+![yolo5](https://github.com/dimmasyusuf/github-achievements/blob/main/images/yolo5.png)
 
 ```bash
 7. Name Your File & Type Text
@@ -105,12 +105,12 @@ By following this tutorial, you can earn GitHub achievements according to your s
 ```bash
 8. Click Commit New File
 ```
-![yolo6](https://github.com/uziii2208/how-to-get-github-achievements/tree/main/images/yolo6.png)
+![yolo6](https://github.com/dimmasyusuf/github-achievements/blob/main/images/yolo6.png)
 
 ```bash
 9. Click Compare & Pull Request
 ```
-![yolo7](https://github.com/uziii2208/how-to-get-github-achievements/tree/main/images/yolo7.png)
+![yolo7](https://github.com/dimmasyusuf/github-achievements/blob/main/images/yolo7.png)
 
 ```bash
 10. Leave A Title & Comment
@@ -121,12 +121,12 @@ By following this tutorial, you can earn GitHub achievements according to your s
 ```bash
 12. Click Create Pull Request
 ```
-![yolo8](https://github.com/uziii2208/how-to-get-github-achievements/tree/main/images/yolo8.png)
+![yolo8](https://github.com/dimmasyusuf/github-achievements/blob/main/images/yolo8.png)
 
 ```bash
 11. Click Merge Pull Request
 ```
-![yolo9](https://github.com/uziii2208/how-to-get-github-achievements/tree/main/images/yolo9.png)
+![yolo9](https://github.com/dimmasyusuf/github-achievements/blob/main/images/yolo9.png)
 
 ```bash
 12. Check Your Profile
@@ -147,7 +147,7 @@ By following this tutorial, you can earn GitHub achievements according to your s
 ```bash
 2. Click Add File & Choose Create New File
 ```
-![pullshark1](https://github.com/uziii2208/how-to-get-github-achievements/tree/main/images/pullshark1.png)
+![pullshark1](https://github.com/dimmasyusuf/github-achievements/blob/main/images/pullshark1.png)
 
 ```bash
 3. Name Your File & Type Text
@@ -158,12 +158,12 @@ By following this tutorial, you can earn GitHub achievements according to your s
 ```bash
 5. Create New File Once More (TWICE)
 ```
-![pullshark2](https://github.com/uziii2208/how-to-get-github-achievements/tree/main/images/pullshark2.png)
+![pullshark2](https://github.com/dimmasyusuf/github-achievements/blob/main/images/pullshark2.png)
 
 ```bash
 6. Click Compare & Pull Request (BOTH)
 ```
-![pullshark3](https://github.com/uziii2208/how-to-get-github-achievements/tree/main/images/pullshark3.png)
+![pullshark3](https://github.com/dimmasyusuf/github-achievements/blob/main/images/pullshark3.png)
 
 ```bash
 7. Leave A Title & Comment
@@ -174,8 +174,8 @@ By following this tutorial, you can earn GitHub achievements according to your s
 ```bash
 9. Do It Once More (TWICE)
 ```
-![pullshark4](https://github.com/uziii2208/how-to-get-github-achievements/tree/main/images/pullshark4.png)
-![pullshark5](https://github.com/uziii2208/how-to-get-github-achievements/tree/main/images/pullshark5.png)
+![pullshark4](https://github.com/dimmasyusuf/github-achievements/blob/main/images/pullshark4.png)
+![pullshark5](https://github.com/dimmasyusuf/github-achievements/blob/main/images/pullshark5.png)
 
 ```bash
 10. Open Your Second Account
@@ -186,7 +186,7 @@ By following this tutorial, you can earn GitHub achievements according to your s
 ```bash
 12. Click The Requests
 ```
-![pullshark6](https://github.com/uziii2208/how-to-get-github-achievements/tree/main/images/pullshark6.png)
+![pullshark6](https://github.com/dimmasyusuf/github-achievements/blob/main/images/pullshark6.png)
 
 ```bash
 11. Click Merge Pull Request
@@ -197,7 +197,7 @@ By following this tutorial, you can earn GitHub achievements according to your s
 ```bash
 13. Do It Once More
 ```
-![pullshark7](https://github.com/uziii2208/how-to-get-github-achievements/tree/main/images/pullshark7.png)
+![pullshark7](https://github.com/dimmasyusuf/github-achievements/blob/main/images/pullshark7.png)
 
 ```bash
 14. Check Your Profile
@@ -218,12 +218,12 @@ By following this tutorial, you can earn GitHub achievements according to your s
 ```bash
 3. Checklist Discussions & Click Set Up Discussions
 ```
-![galaxybrain1](https://github.com/uziii2208/how-to-get-github-achievements/tree/main/images/galaxybrain1.png)
+![galaxybrain1](https://github.com/dimmasyusuf/github-achievements/blob/main/images/galaxybrain1.png)
 
 ```bash
 4. Click Start Discussion
 ```
-![galaxybrain2](https://github.com/uziii2208/how-to-get-github-achievements/tree/main/images/galaxybrain2.png)
+![galaxybrain2](https://github.com/dimmasyusuf/github-achievements/blob/main/images/galaxybrain2.png)
 
 ```bash
 5. Go to Discussion Tabs
@@ -231,7 +231,7 @@ By following this tutorial, you can earn GitHub achievements according to your s
 ```bash
 6. Click New Discussion
 ```
-![galaxybrain3](https://github.com/uziii2208/how-to-get-github-achievements/tree/main/images/galaxybrain3.png)
+![galaxybrain3](https://github.com/dimmasyusuf/github-achievements/blob/main/images/galaxybrain3.png)
 
 ```bash
 7. Choose Category Q&A
@@ -245,8 +245,8 @@ By following this tutorial, you can earn GitHub achievements according to your s
 ```bash
 10. Back to Discussion Tabs & Create New Discussion Once More
 ```
-![galaxybrain4](https://github.com/uziii2208/how-to-get-github-achievements/tree/main/images/galaxybrain4.png)
-![galaxybrain5](https://github.com/uziii2208/how-to-get-github-achievements/tree/main/images/galaxybrain5.png)
+![galaxybrain4](https://github.com/dimmasyusuf/github-achievements/blob/main/images/galaxybrain4.png)
+![galaxybrain5](https://github.com/dimmasyusuf/github-achievements/blob/main/images/galaxybrain5.png)
 
 ```bash
 11. Open Your First Account
@@ -257,7 +257,7 @@ By following this tutorial, you can earn GitHub achievements according to your s
 ```bash
 13. Click The Question
 ```
-![galaxybrain6](https://github.com/uziii2208/how-to-get-github-achievements/tree/main/images/galaxybrain6.png)
+![galaxybrain6](https://github.com/dimmasyusuf/github-achievements/blob/main/images/galaxybrain6.png)
 
 ```bash
 14. Write The Answer
@@ -268,7 +268,7 @@ By following this tutorial, you can earn GitHub achievements according to your s
 ```bash
 16. Do It Once More
 ```
-![galaxybrain7](https://github.com/uziii2208/how-to-get-github-achievements/tree/main/images/galaxybrain7.png)
+![galaxybrain7](https://github.com/dimmasyusuf/github-achievements/blob/main/images/galaxybrain7.png)
 
 ```bash
 17. Open Your Second Account 
@@ -279,7 +279,7 @@ By following this tutorial, you can earn GitHub achievements according to your s
 ```bash
 19. Click The Question
 ```
-![galaxybrain8](https://github.com/uziii2208/how-to-get-github-achievements/tree/main/images/galaxybrain8.png)
+![galaxybrain8](https://github.com/dimmasyusuf/github-achievements/blob/main/images/galaxybrain8.png)
 
 ```bash
 20. Click Mark As Answer
@@ -287,7 +287,7 @@ By following this tutorial, you can earn GitHub achievements according to your s
 ```bash
 21. Do It Once More
 ```
-![galaxybrain9](https://github.com/uziii2208/how-to-get-github-achievements/tree/main/images/galaxybrain9.png)
+![galaxybrain9](https://github.com/dimmasyusuf/github-achievements/blob/main/images/galaxybrain9.png)
 
 ```bash
 21. Check Your Profile
